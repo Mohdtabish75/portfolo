@@ -3,7 +3,7 @@
     text-align: center;
     background: linear-gradient(135deg, cyan, blue);;
     padding: 10px;
-    font-size: 59px;
+    font-size: 29px;
     border: 1px solid navy;
     border-radius: 15px;
     color: black;
@@ -18,16 +18,16 @@
     background-color: transparent;
     text-decoration: none;
    background-color: transparent;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
     
     
 }
 .na a{
     text-decoration: none;
-    margin-inline-start: 2rem;
-    font-size: 28px;
-    border: 4PX SOLID cyan;
+    margin-inline-start: 5px;
+    font-size: 24px;
+/*     border: 4PX SOLID cyan; */
     border-radius: 10PX;
     padding: 4PX;
     background-color: cyan;
