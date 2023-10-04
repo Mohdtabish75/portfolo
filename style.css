@@ -58,7 +58,7 @@ a:hover{
     /* margin: 15px auto; */
     display: flex;
     /* align-items: center; */
-    /* justify-content: center; */
+    justify-content: center;
 }
 .reviews .review_box .review_card{
     width: 400px;
